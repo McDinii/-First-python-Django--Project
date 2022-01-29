@@ -1,0 +1,58 @@
+body { background: #514329;
+}
+aside{
+    float: left;
+    width: 18%;
+    padding: 2.5%;
+    height: 100vh;
+    color: #73D936;
+    border-right: 5px solid mistyrose;
+}
+aside img{
+    float:left;
+
+}
+aside h3{
+    margin-top: 50px;
+}
+aside ul{
+    list-style: none;
+}
+aside ul li{
+    color: #e35f5f;
+    display: block;
+    margin-top: 20px ;
+    transition: all .6s ease;
+
+}
+aside ul a{
+    text-decoration: none;
+}
+aside ul li:hover, aside ul a:hover{
+    color: #7A63FF;
+    transform: scale(1.05);
+}
+main .features{
+    float: left;
+    color: mistyrose;
+    margin-top: 100px;
+    text-align: center;
+    width: 75%;
+}
+
+main .features h1 {font-size: 50px;}
+main .features p{max-width: 400px; margin: 20px auto; }
+main .features ul.contacts{
+    position: relative;
+text-align: left;
+    list-style: none;
+    margin-left:230px ;
+}
+
+.alert-warning{
+    float: left;
+    clear: both;
+    width: 400px;
+    margin: 20px 30% ;
+    text-align: left;
+}
