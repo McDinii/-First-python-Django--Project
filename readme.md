@@ -1,1 +1,1 @@
-thiss my first Django project, welcome (. /(.)\ .)
+this my first Django project, welcome (. /(.)\ .)
